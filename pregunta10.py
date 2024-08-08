@@ -1,0 +1,1 @@
+python biblioteca\main.py
